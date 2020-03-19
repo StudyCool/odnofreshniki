@@ -1,0 +1,17 @@
+.listItem {
+  box-sizing: border-box;
+  margin: 10px;
+  padding: 10px;
+  text-align: center;
+  border: 1px solid #2188ff;
+
+}
+
+.list {
+  list-style: none;
+  max-height: 90vh;
+  min-height: 90vh;
+  overflow-y: scroll;
+  box-sizing: border-box;
+  border: 4px solid lightcoral;
+}
